@@ -1,0 +1,6 @@
+D:\ARAMAYO_NICOLAS\UTN\Segundo Cuatrimestre\Programacion II C#\Ejercicios-TP\FrutasOtravez\FrutasOtravez\bin\Debug\FrutasOtravez.exe.config
+D:\ARAMAYO_NICOLAS\UTN\Segundo Cuatrimestre\Programacion II C#\Ejercicios-TP\FrutasOtravez\FrutasOtravez\bin\Debug\FrutasOtravez.exe
+D:\ARAMAYO_NICOLAS\UTN\Segundo Cuatrimestre\Programacion II C#\Ejercicios-TP\FrutasOtravez\FrutasOtravez\bin\Debug\FrutasOtravez.pdb
+D:\ARAMAYO_NICOLAS\UTN\Segundo Cuatrimestre\Programacion II C#\Ejercicios-TP\FrutasOtravez\FrutasOtravez\obj\Debug\FrutasOtravez.csprojResolveAssemblyReference.cache
+D:\ARAMAYO_NICOLAS\UTN\Segundo Cuatrimestre\Programacion II C#\Ejercicios-TP\FrutasOtravez\FrutasOtravez\obj\Debug\FrutasOtravez.exe
+D:\ARAMAYO_NICOLAS\UTN\Segundo Cuatrimestre\Programacion II C#\Ejercicios-TP\FrutasOtravez\FrutasOtravez\obj\Debug\FrutasOtravez.pdb
